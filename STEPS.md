@@ -99,3 +99,17 @@
         b. select the files that were changed
 
         c. add the message "Commit 6" and commit to the bug-fix-experimental branch
+
+    3 - published the branch
+
+### Commit 7:
+
+    1 - added steps for commit 7
+
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 7" and commit to the bug-fix-experimental branch
