@@ -46,4 +46,18 @@
 
         b. select the files that were changed
 
-        c. add the message "Commit 3" and commit to the main branch
+        c. add the message "Commit 3" and commit to the bug-fix branch
+
+### Commit 4:
+
+    1 - added steps for commit 4
+
+    2 - added another meme
+
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 3" and commit to the bug-fix branch
