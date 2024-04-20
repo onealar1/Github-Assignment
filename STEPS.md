@@ -61,3 +61,41 @@
         b. select the files that were changed
 
         c. add the message "Commit 3" and commit to the bug-fix branch
+
+### Merging main into bug-fix:
+
+    1 - in github desktop, I selected bug-fix as the current branch
+
+    2 - pressed "Choose a branch to merge into bug-fix"
+
+    3 - clicked on the main branch. This would create a merge conflict because the steps file was different for each branch
+
+    4 - to resolve this, I clicked "Open in Visual Studio", then pressed "Open merge editor", then I chose the STEPS file from the bug-fix branch to keep 
+
+    5 - next I commit the changes from vs code
+
+### Commit 5: 
+
+    1 - added name and due date to the README file
+
+    2 - added commit 5 steps and the steps for merging main into bug-fix
+
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 5" and commit to the bug-fix branch
+
+### Commit 6:
+
+    1 - added steps for commit 6
+
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 6" and commit to the bug-fix-experimental branch
